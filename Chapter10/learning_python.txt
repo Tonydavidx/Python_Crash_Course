@@ -1,0 +1,3 @@
+In python you can use loops to run a program repeatedly
+in python you can create lists and store items in them
+in python you can use classes, functions and inputs to make a good program 

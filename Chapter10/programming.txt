@@ -1,0 +1,4 @@
+I Love Python.
+I love to create bots
+I also love creating data visulization
+I love to create web apps too

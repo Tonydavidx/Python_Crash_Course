@@ -1,0 +1,1 @@
+print('The Budda Once said, "All that we are is the result of what we have thought"')

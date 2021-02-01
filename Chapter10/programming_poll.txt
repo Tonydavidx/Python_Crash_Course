@@ -1,0 +1,5 @@
+Tony : automation
+Leonardo : art
+Antony : python
+Loki : automation
+Thor : crunch numbers
